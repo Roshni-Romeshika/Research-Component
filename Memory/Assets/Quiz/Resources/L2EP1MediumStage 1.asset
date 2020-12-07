@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: L2EP1MediumStage 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: It can be understood that the author put hot sauce in the muffins
+      because she
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 6bdb053a2b616794593715cdeadaada9, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - wanted to get a full refund
+    - did not read the directions carefully
+    - was out of raisins, nuts, and berries
+    - 'considered it one of her favorite ingredients '
+    correctAns: 'considered it one of her favorite ingredients '
+  - questionInfo: "The author\u2019s main purpose in writing this letter is to"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - complain about how bad the muffins tasted
+    - obtain a full refund for her money
+    - prevent others from making the same mistake she did
+    - persuade the company to change the wording on their box
+    correctAns: obtain a full refund for her money
+  - questionInfo: Which of the following words best describes the author?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - shrewd
+    - senseless
+    - unreasonable
+    - careful
+    correctAns: unreasonable
+  - questionInfo: 'Instead of hot sauce, which of the following ingredients might
+      the author have reasonably added to enhance the flavor of the muffins? I. raspberries
+      II. banana nuts III. chocolate chips '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - I only
+    - I and II only
+    - II and III only
+    - 'I, II, and III '
+    correctAns: 'I, II, and III '
+  - questionInfo: 'According to the author, the muffins tasted "absolutely terrible."
+      This is the result of '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - misinterpretation
+    - negligence
+    - forgetfulness
+    - recklessness
+    correctAns: misinterpretation
